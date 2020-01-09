@@ -1,0 +1,14 @@
+---
+pagetitle: "resume"
+---
+
+<html>
+  <head>
+    <title>Corinne Jaskiewicz Resume</title>
+  </head>
+  <body>
+    <iframe src="images/.pdf" width="100%" height="1080px">
+    </iframe>
+  </body>
+</html>
+

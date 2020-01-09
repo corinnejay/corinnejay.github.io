@@ -1,0 +1,13 @@
+---
+title: "Contact"
+---
+
+<p>Feel free to contact me with any questions or connect through LinkedIn and GitHub through the provided links on the right handside of the navigation bar.</p>
+
+<center>
+<div class="polaroid">
+  <img src="images/profile.jpg" alt="avatar" style="width:100%">
+    <h4>Corinne Jaskiewicz<h4>
+    <h5>Engineer & Analyst<h5>
+  </div>
+</center>

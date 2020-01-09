@@ -1,0 +1,20 @@
+name: "coris-portfolio"
+output_dir: "."
+navbar:
+  title: "HOME"
+  left:
+    - text: "Resume"
+      href: resume.html
+    - text: "Projects"
+      href: projects.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/corinnejay
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/corinnejay
+output:
+  html_document:
+    theme: spacelab
+    css: style.css
